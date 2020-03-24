@@ -838,7 +838,8 @@
       "city":"Tórshavn"
    },
    {
-      "country":"Fiji Islands",
+      "country":"Fiji",
+      "alternate_names": {"Fiji Islands"},
       "population":"905502",
       "area":18274,
       "expectancy":"67.9",
@@ -1114,7 +1115,8 @@
       "city":null
    },
    {
-      "country":"Holy See (Vatican City State)",
+      "country":"Holy See",
+      "alternate_names":{"Vatican City State", "Holy See (Vatican City State)"},
       "population":"1000",
       "area":0.4,
       "expectancy":null,
@@ -1881,7 +1883,8 @@
       "city":"Kingston"
    },
    {
-      "country":"North Korea",
+      "country":"Korea, North",
+      "alternate_names":{"North Korea"},
       "population":"25490965",
       "area":120538,
       "expectancy":"70.7",
@@ -2120,7 +2123,8 @@
       "city":"Bucuresti"
    },
    {
-      "country":"Russian Federation",
+      "country":"Russia",
+      "alternate_names": {"Russian Federation"},
       "population":"143989754",
       "area":17075400,
       "expectancy":"67.2",
@@ -2382,7 +2386,8 @@
       "city":null
    },
    {
-      "country":"South Korea",
+      "country":"Korea, South",
+      "alternate_names":{"South Korea"},
       "population":"50982212",
       "area":99434,
       "expectancy":"74.4",
@@ -2418,7 +2423,7 @@
       "city":"Madrid"
    },
    {
-      "country":"SriLanka",
+      "country":"Sri Lanka",
       "population":"20876917",
       "expectancy":null,
       "elevation":null,

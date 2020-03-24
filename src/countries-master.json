@@ -839,7 +839,7 @@
    },
    {
       "country":"Fiji",
-      "alternate_names": {"Fiji Islands"},
+      "alternate_names": ["Fiji Islands"],
       "population":"905502",
       "area":18274,
       "expectancy":"67.9",
@@ -1116,7 +1116,7 @@
    },
    {
       "country":"Holy See",
-      "alternate_names":{"Vatican City State", "Holy See (Vatican City State)"},
+      "alternate_names":["Vatican City State", "Holy See (Vatican City State)"],
       "population":"1000",
       "area":0.4,
       "expectancy":null,
@@ -1884,7 +1884,7 @@
    },
    {
       "country":"Korea, North",
-      "alternate_names":{"North Korea"},
+      "alternate_names":["North Korea"],
       "population":"25490965",
       "area":120538,
       "expectancy":"70.7",
@@ -2124,7 +2124,7 @@
    },
    {
       "country":"Russia",
-      "alternate_names": {"Russian Federation"},
+      "alternate_names": ["Russian Federation"],
       "population":"143989754",
       "area":17075400,
       "expectancy":"67.2",
@@ -2387,7 +2387,7 @@
    },
    {
       "country":"Korea, South",
-      "alternate_names":{"South Korea"},
+      "alternate_names":["South Korea"],
       "population":"50982212",
       "area":99434,
       "expectancy":"74.4",

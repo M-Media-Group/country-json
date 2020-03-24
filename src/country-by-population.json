@@ -60,7 +60,7 @@
         "population": "9827589"
     },
     {
-        "country": "Bahamas",
+        "country": "Bahamas, The",
         "population": "395361"
     },
     {
@@ -280,7 +280,7 @@
         "population": "49290"
     },
     {
-        "country": "Fiji Islands",
+        "country": "Fiji",
         "population": "905502"
     },
     {
@@ -308,7 +308,7 @@
         "population": "2025137"
     },
     {
-        "country": "Gambia",
+        "country": "Gambia, The",
         "population": "2100568"
     },
     {
@@ -372,7 +372,7 @@
         "population": null
     },
     {
-        "country": "Holy See (Vatican City State)",
+        "country": "Holy See",
         "population": "1000"
     },
     {
@@ -628,7 +628,7 @@
         "population": "2000"
     },
     {
-        "country": "North Korea",
+        "country": "Korea, North",
         "population": "25490965"
     },
     {
@@ -708,7 +708,7 @@
         "population": "19679306"
     },
     {
-        "country": "Russian Federation",
+        "country": "Russia",
         "population": "143989754"
     },
     {
@@ -796,7 +796,7 @@
         "population": null
     },
     {
-        "country": "South Korea",
+        "country": "Korea, South",
         "population": "50982212"
     },
     {
@@ -808,7 +808,7 @@
         "population": "46354321"
     },
     {
-        "country": "SriLanka",
+        "country": "Sri Lanka",
         "population": "20876917"
     },
     {
@@ -908,7 +908,7 @@
         "population": "66181585"
     },
     {
-        "country": "United States",
+        "country": "US",
         "population": "324459463"
     },
     {
